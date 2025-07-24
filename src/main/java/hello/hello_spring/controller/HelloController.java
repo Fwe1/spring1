@@ -24,4 +24,3 @@ public class HelloController {
         return "hello" + name; //여기에 spring넣어주면 name에 다른것이 전달됨, view이런게 없음. 문자가 그대로 들어감
     }
 }
-
